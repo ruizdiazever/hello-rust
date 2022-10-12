@@ -1,4 +1,4 @@
-# Rust
+# Rust 🦀
 
 My learning path with Rust, my new favorite language, sorry Python :(
 
@@ -12,12 +12,13 @@ My learning path with Rust, my new favorite language, sorry Python :(
 ## Useful commands 🐧
 
 ```bash
-cargo new $name --bin   # New project
-cargo build --release   # Compilation with optimizations
-cargo check             # Checker
-cargo run               # Compilate and exec
-cargo doc --open        # Create doc with your dependencies in local
-rustup update           # Update version of Rust
+cargo new $name --bin         # New project
+cargo new communicator --lib  # Create a library
+cargo build --release         # Compilation with optimizations
+cargo check                   # Checker
+cargo run                     # Compilate and exec
+cargo doc --open              # Create doc with your dependencies in local
+rustup update                 # Update version of Rust
 ```
 
 ## Resources 📝
@@ -28,7 +29,7 @@ rustup update           # Update version of Rust
 - [First steps with Docker + Rust](https://dev.to/rogertorres/first-steps-with-docker-rust-30oi)
 - [Tutorial in Spanish](https://blog.adrianistan.eu/rust-101-tutorial-rust-espanol)
 
-## Favorite project
+## Favorite project ❤️
 
 - [Pingora](https://blog.cloudflare.com/how-we-built-pingora-the-proxy-that-connects-cloudflare-to-the-internet/): like NGINX but writed in Rust, consumes about 70% less CPU and 67% less memory
 - [Iced](https://github.com/iced-rs/iced): cross-platform GUI library focused on simplicity and type-safety
