@@ -30,7 +30,7 @@ rustup update           # Update version of Rust
 
 ## Favorite project
 
-- [Pingora](https://blog.cloudflare.com/how-we-built-pingora-the-proxy-that-connects-cloudflare-to-the-internet/): like NGINX but writing in Rust by Cloudflare, consumes about 70% less CPU and 67% less memory
+- [Pingora](https://blog.cloudflare.com/how-we-built-pingora-the-proxy-that-connects-cloudflare-to-the-internet/): like NGINX but writed in Rust, consumes about 70% less CPU and 67% less memory
 - [Iced](https://github.com/iced-rs/iced): cross-platform GUI library focused on simplicity and type-safety
 - [Dioxus](https://dioxuslabs.com/): user interfaces that run anywhere
 - [Arti](https://gitlab.torproject.org/tpo/core/arti/): new version of Tor in Rust
