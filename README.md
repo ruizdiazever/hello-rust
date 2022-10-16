@@ -7,7 +7,8 @@ My learning path with Rust, my new favorite language, sorry Python :(
 1. [Official Book](https://doc.rust-lang.org/book/)
 2. [Rust by Example](https://doc.rust-lang.org/rust-by-example/index.html)
 3. [Rustling](https://github.com/rust-lang/rustlings)
-4. Personal Project with [Actix](https://github.com/rust-lang/rustlings), [Diesel](https://diesel.rs/), [Tokio](https://tokio.rs/) with [PostgreSQL 15](https://www.postgresql.org/) and [Next.js](https://nextjs.org/)
+4. First project with [Actix](https://actix.rs/), [Diesel](https://diesel.rs/), [Tokio](https://tokio.rs/) with [PostgreSQL 15](https://www.postgresql.org/), [GraphQL](https://graphql.org/) and [Next.js](https://nextjs.org/)
+5. Second project with [Axum](https://github.com/tokio-rs/axum) or [Actix](https://actix.rs/), [Tokio](https://tokio.rs/) with [RedisDB](https://redis.io/), [GraphQL](https://graphql.org/) and [Next.js](https://nextjs.org/)
 
 ## Useful commands 🐧
 
