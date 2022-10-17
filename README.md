@@ -37,6 +37,6 @@ rustup update                 # Update version of Rust
 - [Dioxus](https://dioxuslabs.com/): user interfaces that run anywhere
 - [Arti](https://gitlab.torproject.org/tpo/core/arti/): new version of Tor in Rust
 - [Diesel](https://diesel.rs/): a Safe, Extensible ORM and Query Builder for Rust
-- [Tokio](https://tokio.rs/) async
+- [Tokio](https://tokio.rs/): an asynchronous runtime for the Rust programming language.
 - [Yew](https://yew.rs/): modern Rust framework for creating multi-threaded front-end web apps using WebAssembly
 - [Pop!_OS](https://pop.system76.com/): a Linux distro with a future desktop environment developed in Rust
